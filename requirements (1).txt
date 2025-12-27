@@ -1,0 +1,8 @@
+biopython
+networkx
+scipy
+numpy
+matplotlib
+py3Dmol
+prody
+rdkit
